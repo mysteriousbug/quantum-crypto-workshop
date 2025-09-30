@@ -1,0 +1,13 @@
+matplotlib
+streamlit
+numpy
+pandas
+plotly
+datetime
+time
+typing
+json
+qiskit
+qiskit_aer
+qiskit_ibm_runtime
+pymongo
