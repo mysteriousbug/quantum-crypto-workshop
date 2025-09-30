@@ -3,7 +3,6 @@ streamlit
 numpy
 pandas
 plotly
-datetime
 time
 typing
 json
