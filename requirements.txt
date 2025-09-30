@@ -1,9 +1,8 @@
-matplotlib
 streamlit
+matplotlib
 numpy
 pandas
 plotly
-time
 typing
 json
 qiskit
