@@ -1,1 +1,0 @@
-# quantum-crypto-workshop
